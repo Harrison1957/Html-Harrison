@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equip="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aquí va el título de tu documento</title>
+<head>
+<body>
+  
+  <a href="https://www.github.com">Enlace</a>
+  
+  <!-- Para abrir el mismo link en otra pestaña se utiliza este comando>
+  
+   <a href="https://www.github.com" target="_blank">Enlace</a>
+   
+   <!-- Si quieres poner tu mail, al hacer click se te abre el correo, si lo tienes configurado>
+   
+    <a href="mailto:email@email.com" target="_blank">Enlace</a>
+        email@email.com
+   
+</body>
+
+</html>
