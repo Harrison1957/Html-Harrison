@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aquí va el documento de tu título</title>
+</head>
+<body>
+
+    <a href="https://www.github.com/>Enlace a tu página</a>
+    
+    <img src="img/imagen.jpg" alt="the 1950">
+    
+    <p>
+      Esto es un <b>parráfo.</b> --texto en negrita--
+    </p>
+    
+    <p>
+      Esto es un <strong>parráfo.</strong> --equivalente del comando b, texto en negrita
+    </p>
+    
+    <p>
+      Esto es un <i>parráfo.</i> <!-- texto en cursiva>
+    </p>
+    
+    <p>
+      Esto es un <em>parráfo.</em> <!--similar a la cursiva del anterior comando>
+    </p>
+    
+    <p>
+      Esto es un <small>parráfo.</small> <!--texto en chico>
+    </p>
+    
+    <p>
+      Esto es un <mark>parráfo.</mark> <!-- resalta el texto>
+    </p>
+    
+    <p>
+      Esto es un <del>parráfo.</del> <!-- ver texto eliminado, se muestra como tachado>
+    </p>
+    
+    <p>
+      Esto es un <ins>parráfo.</ins> <!--subraya el texto>
+    </p>
+    
+    <p>
+      Esto es un <sub>parráfo.</sub> <!-- se ve el texto por debajo>
+    </p>
+    
+    <p>
+      Esto es un <sup>parráfo.</sup> <!-- se ve el texto por arriba>
+    </p>
+    <p title="Hola">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</body>
+</html>
