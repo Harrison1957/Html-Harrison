@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equip="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aquí va el título de tu documento</title>
+<head>
+<body>
+  
+  <form>
+      
+      
+      <input list="colores">
+      <datalist id="colores">
+        <option>Rojo</option>
+        <option>Amarillo</option>
+        <option>Azul</option>
+        <option>Rojo</option>
+        <option>Amarillo</option>
+      </datalist>
+      
+      <br>
+      
+  </form>
+  
+  <form>
+  <label for="iname">Nombre:</label>
+  <input id="iname" type="text" name="name">
+  
+  <label for="iname">Apellidos:</label>
+  <input id="isurname" type="text" name="surname">
+  
+  <label for="iemail">Email:</label>
+  <input id="iemail" type="email" name="email">
+  
+  <label for="ipass">Contraseña:</label>
+  <input id="ipass" type="password" name="pass">
+
+    <input type='submit' value='Enviar'>
+
+    <input type="reset" value="Resetear">
+  
+  
+  </form>
+  
