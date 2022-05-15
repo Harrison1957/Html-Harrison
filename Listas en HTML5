@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equip="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aquí va el título de tu documento</title>
+<head>
+<body>
+
+  <!-- listas desordenadas, 
+  para hacer que en tu lista, los puntos negros que tiene al lado del texto cambie, 
+  puedes ponerle el comando circle, que reflejará circulos sin contorno negro
+  dentro del texto>
+  
+  <ul style="list-style-type: circle">
+      <li>Hofner</li>
+      <li>Rickenbacker</li>
+      <li>Stratocaster</li>
+      <li>Telecaster</li>
+  </ul>
+  <!-- para hacer que en tu lista, los puntos negros que tiene al lado del texto cambie, puedes ponerle el comando none, que no tendrá los puntos habituales que suele
+  tener una lista>
+   <ul style="list-style-type: none">
+      <li>Hofner</li>
+      <li>Rickenbacker</li>
+      <li>Stratocaster</li>
+      <li>Telecaster</li>
+   </ul>
+   
+  <!-- para hacer que en tu lista, los puntos negros que tiene al lado del texto cambie, puedes ponerle el comando square, que reflejará cuadrados en negro al lado
+  del texto de la lista>
+   <ul style="list-style-type: square">
+      <li>Hofner</li>
+      <li>Rickenbacker</li>
+      <li>Stratocaster</li>
+      <li>Telecaster</li> 
+   </ul>
+<!-- para agregar una lista dentro de una lista puedes hacer esto>
+     <ul>
+     <li>Hofner</li>
+     <li>Rickenbacker
+        <ul>
+          <li>Rickenbacker 325</li>
+          <li>Rickenbacker 360</li>
+         </ul>
+      </li>
+     <li><a href="#">Stratocaster</a></li>
+     <li>Telecaster</li>
+     </ul>
+ 
+ <!-- lista ordenada>
+ <ol start="1">
+      <li>Hofner</li>
+      <li>Rickenbacker</li>
+      <li>Stratocaster</li>
+      <li>Telecaster</li> 
+ </ol>
+
+  
+</body>
+</html>
