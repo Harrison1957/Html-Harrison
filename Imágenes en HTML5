@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equip="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aquí va el título de tu documento</title>
+<head>
+<body>
+  
+  <!-- en caso de tener una imagen adentro del documento de html, puedes poner el nombre del directorio donde tienes tu foto>
+  <img scr="georgeharrison.jpg">
+  
+  <!-- El alt, es un alternativo, en caso de que no cargue la página, sirve para ver la descripción de la imagen, en caso de que falle la url, lo que se verá
+  es la descripción del texto que le agregaste al alt>
+  <img scr="georgeharrison.jpg" alt="Foto de Harrison">
+  
+  <!-- el ancho es el width y el height es el largo de la imagen que se verá en la página, puedes cambiarlo a tu gusto>
+  <img scr="lennon.jpg" style="width: 200px"
+  
+  <img scr=lennon.jpg" style="height: 200px">
+  
+  <!-- si agrupas las imagenes en una sola carpeta, para poner la imagen en el código sería>
+  <img scr="img/georgeharrison.jpg>
+  
+  <!-- para poder tener una imagen que al presionarla te dirija a otra página, tienes que poner esto de ser necesario>
+  
+  <a href="https:/github.com">
+  <img scr="img/mccartney.jpg" alt="Foto de Paul">
+  </a>
+  
+</body>
+
+</html>
