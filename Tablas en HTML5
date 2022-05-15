@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equip="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aquí va el título de tu documento</title>
+  
+  <style>
+    table, th, td{
+          border:1px solid black;
+          border-collapse: collapse;
+         }
+         
+         th,td{
+            padding: 10px;
+         }
+<!-- para quitarle el centrado a lo superior de la lista le pones el comando>         
+          th{
+              text-align: left;
+         }  
+ </style>
+<head>
+<body>
+  
+  <table style="witdh: 100%;">
+    <tr>
+      <th>Nombre</th>
+      <th>Apellidos</th>
+      <th>Email</th>
+    </tr>
+    <tr>
+    <!-- para agrupar dos celdas utilizas el comando>
+      <td colspan="2">Will</td>
+      <td>Corleone</td>
+      <td>naitinfixtin@gmail.com</td>
+      </tr>
+    <tr>
+      <td>Will</td>
+      <!-- para agrupar dos columnas utilizas el comando>
+      <td rowspan="2">Corleone</td>
+      <td>naitinfixtin@gmail.com</td>
+      </tr>
+    <tr>
+      <td>Will</td>
+      <td>Corleone</td>
+      <td>naitinfixtin@gmail.com</td>
+      </tr>
+      
+</table>
+  
+</body>
+</html>
