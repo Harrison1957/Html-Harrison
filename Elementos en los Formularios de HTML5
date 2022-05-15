@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equip="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aquí va el título de tu documento</title>
+<head>
+<body>
+  
+  <form>
+      <label for="nombre">Email</label>
+      <input type="email" id="nombre" name="name">
+  </form>
+  
+  <form>
+      <label for="color">Elige un color</label>
+      <select id="color" name="color" multiple>
+        <option>Rojo</option>
+        <option>Amarillo</option>
+        <option selected>Azul</option>
+       <select>
+  </form>
+  
+  <form>
+      <textarea rows="10"cols="500"></textarea>
+  </form>
+  
+   <form>
+      <textarea style="width: 100px"></textarea>
+      <textarea name="mensaje"></textarea>
+      <button type="button" onclick="alert ('Hola');">Botón</button>
+      <button type="submit">Botón</button>
+  </form>
+  
+  
+</body>
+
+</html>
